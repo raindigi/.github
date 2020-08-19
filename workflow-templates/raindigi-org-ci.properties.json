@@ -1,0 +1,13 @@
+{
+    "name": "RainDigi Organizational CI Workflow Action",
+    "description": "RainDigi Organizational CI Workflow Action workflow template.",
+    "iconName": "raindigi-icon",
+    "categories": [
+        "Node"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
